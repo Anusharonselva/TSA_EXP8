@@ -1,4 +1,4 @@
-![Screenshot 2024-10-16 141758](https://github.com/user-attachments/assets/379da11e-d37e-46fc-96ac-eaf5bac0d799)# Ex.No: 08     MOVINTG AVERAGE MODEL AND EXPONENTIAL SMOOTHING
+### Ex.No: 08     MOVINTG AVERAGE MODEL AND EXPONENTIAL SMOOTHING
 ### Date: 
 ### Developed by: ANUSHARON.S
 ### Registration no.: 212222240010
